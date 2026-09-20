@@ -1,0 +1,56 @@
+[
+  {
+    "id": "arbuz",
+    "name": "Arbuz Client",
+    "version": "1.21.4",
+    "url": "https://raw.githubusercontent.com/Ertti556/FlowLauncher/main/Arbuz-decrypted/Arbuz-decrypted.jar"
+  },
+  {
+    "id": "nursultan",
+    "name": "Nursultan",
+    "version": "1.21.11",
+    "url": "https://raw.githubusercontent.com/Ertti556/FlowLauncher/main/Nursultan/Nursultan-1.21.11-Ready.jar"
+  },
+  {
+    "id": "punch",
+    "name": "Punch Client",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/Ertti556/FlowLauncher/main/Punch/punch-1.0.0.jar"
+  },
+  {
+    "id": "rockstar",
+    "name": "Rockstar Client",
+    "version": "1.21.4",
+    "url": "https://raw.githubusercontent.com/Ertti556/FlowLauncher/main/Rockstar/rockcrack.jar"
+  },
+  {
+    "id": "wayne",
+    "name": "Wayne Client",
+    "version": "1.21.4",
+    "url": "https://raw.githubusercontent.com/Ertti556/FlowLauncher/main/Wayne/waynecrack.jar"
+  },
+  {
+    "id": "wexside",
+    "name": "WexSide",
+    "version": "1.21.11",
+    "url": "https://raw.githubusercontent.com/Ertti556/FlowLauncher/main/Wexside/WexSide.jar"
+  },
+  {
+    "id": "zov",
+    "name": "ZOV Client",
+    "version": "1.3",
+    "url": "https://raw.githubusercontent.com/Ertti556/FlowLauncher/main/ZOV/ZOVCLIENT-1.3.jar"
+  },
+  {
+    "id": "zenith",
+    "name": "Zenith Client",
+    "version": "1.0-SNAPSHOT",
+    "url": "https://raw.githubusercontent.com/Ertti556/FlowLauncher/main/Zenith/zenith-1.0-SNAPSHOT.jar"
+  },
+  {
+    "id": "monoware",
+    "name": "Monoware",
+    "version": "1.21.4",
+    "url": "https://raw.githubusercontent.com/Ertti556/FlowLauncher/main/monoware/monoware.jar"
+  }
+]
