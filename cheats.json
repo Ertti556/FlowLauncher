@@ -1,0 +1,65 @@
+[
+  {
+    "id": "arbuz",
+    "name": "Arbuz Client",
+    "version": "1.21.4",
+    "url": "https://raw.githubusercontent.com/Ertti556/FlowLauncher/main/Arbuz-decrypted/Arbuz-decrypted.jar",
+    "fabricApiUrl": ""
+  },
+  {
+    "id": "nursultan",
+    "name": "Nursultan",
+    "version": "1.21.11",
+    "url": "https://raw.githubusercontent.com/Ertti556/FlowLauncher/main/Nursultan/Nursultan-1.21.11-Ready.jar",
+    "fabricApiUrl": "https://raw.githubusercontent.com/Ertti556/FlowLauncher/main/Nursultan/fabric-api-0.141.6-1.21.11.jar"
+  },
+  {
+    "id": "punch",
+    "name": "Punch Client",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/Ertti556/FlowLauncher/main/Punch/punch-1.0.0.jar",
+    "fabricApiUrl": ""
+  },
+  {
+    "id": "rockstar",
+    "name": "Rockstar Client",
+    "version": "1.21.4",
+    "url": "https://raw.githubusercontent.com/Ertti556/FlowLauncher/main/Rockstar/rockcrack.jar",
+    "fabricApiUrl": ""
+  },
+  {
+    "id": "wayne",
+    "name": "Wayne Client",
+    "version": "1.21.4",
+    "url": "https://raw.githubusercontent.com/Ertti556/FlowLauncher/main/Wayne/waynecrack.jar",
+    "fabricApiUrl": ""
+  },
+  {
+    "id": "wexside",
+    "name": "WexSide",
+    "version": "1.21.11",
+    "url": "https://raw.githubusercontent.com/Ertti556/FlowLauncher/main/Wexside/WexSide.jar",
+    "fabricApiUrl": "https://raw.githubusercontent.com/Ertti556/FlowLauncher/main/Wexside/fabric-api-0.141.5-1.21.11.jar"
+  },
+  {
+    "id": "zov",
+    "name": "ZOV Client",
+    "version": "1.3",
+    "url": "https://raw.githubusercontent.com/Ertti556/FlowLauncher/main/ZOV/ZOVCLIENT-1.3.jar",
+    "fabricApiUrl": ""
+  },
+  {
+    "id": "zenith",
+    "name": "Zenith Client",
+    "version": "1.0-SNAPSHOT",
+    "url": "https://raw.githubusercontent.com/Ertti556/FlowLauncher/main/Zenith/zenith-1.0-SNAPSHOT.jar",
+    "fabricApiUrl": ""
+  },
+  {
+    "id": "monoware",
+    "name": "Monoware",
+    "version": "1.21.4",
+    "url": "https://raw.githubusercontent.com/Ertti556/FlowLauncher/main/monoware/monoware.jar",
+    "fabricApiUrl": "https://raw.githubusercontent.com/Ertti556/FlowLauncher/main/monoware/fabric-api-0.119.4-1.21.4.jar"
+  }
+]
